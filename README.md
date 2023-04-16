@@ -4,8 +4,6 @@
 
 📚 Estudando Ciências da Computação 
 
-📧 Meu e-mail de contato é: eu.biancapedrosa@gmail.com
-
 ❤️ Pronouns: ela/dela                        
 
 
