@@ -8,6 +8,8 @@
 
 ❤️ Pronouns: ela/dela
 
+<img align="center" width="148" height="180" src="https://media.tenor.com/rg60P4FXcOIAAAAC/hello-wave.gif"><br/><br/><br/>
+
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-souza-302a16154/)
 
@@ -24,6 +26,10 @@
     <img align="center" alt="HTML5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
 </div><br/>
 
+<div>
+  <a href="https://github.com/Biazi990">
+  <img align="center" width="148" height="180" src="https:/https://media.tenor.com/rg60P4FXcOIAAAAC/hello-wave.gif">
 
-Profissional extremamente apaixonada pela área de Prevenção a Fraudes e Tecnologia.🌟
+![Snake animation](https://github.com/Biazi990/Biazi990/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
