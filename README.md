@@ -6,15 +6,13 @@
 
 📧 Meu e-mail de contato é: eu.biancapedrosa@gmail.com
 
-❤️ Pronouns: ela/dela
-
-<img align="center" width="148" height="180" src="https://media.tenor.com/rg60P4FXcOIAAAAC/hello-wave.gif"><br/><br/><br/>
+❤️ Pronouns: ela/dela                        
 
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-souza-302a16154/)
 
 
 ![Bianca  GitHub stats](https://github-readme-stats.vercel.app/api?username=Biazi990&show_icons=true&theme=dracula)
+
 
 ### Tecnologias que estou ultilizando atualmente:
 
@@ -26,10 +24,17 @@
     <img align="center" alt="HTML5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
 </div><br/>
 
-<div>
-  <a href="https://github.com/Biazi990">
-  <img align="center" width="148" height="180" src="https:/https://media.tenor.com/rg60P4FXcOIAAAAC/hello-wave.gif">
+### Me encontre aqui: 
 
-![Snake animation](https://github.com/Biazi990/Biazi990/blob/output/github-contribution-grid-snake.svg)
- </div>
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-souza-302a16154/)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eu.biancapedrosa@gmail.com)
+
+
+
+<img align="center" width="148" height="180" src="https://media.tenor.com/rg60P4FXcOIAAAAC/hello-wave.gif"><br/>
+
+
+
+
+Profissional extremamente apaixonada pela área de Prevenção a Fraudes e Tecnologia.🌟
