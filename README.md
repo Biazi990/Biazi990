@@ -24,17 +24,11 @@
     <img align="center" alt="HTML5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
 </div><br/>
 
+
 ### Me encontre aqui: 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-souza-302a16154/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eu.biancapedrosa@gmail.com)
-
-
-
-<img align="center" width="148" height="180" src="https://media.tenor.com/rg60P4FXcOIAAAAC/hello-wave.gif"><br/>
-
-
-
 
 Profissional extremamente apaixonada pela área de Prevenção a Fraudes e Tecnologia.🌟
