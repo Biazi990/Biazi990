@@ -9,9 +9,11 @@
 ❤️ Pronouns: ela/dela                        
 
 
-
-
-![Bianca  GitHub stats](https://github-readme-stats.vercel.app/api?username=Biazi990&show_icons=true&theme=dracula)
+<div align="center">
+  <a href="https://github.com/Biazi990">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biazi990&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biazi990&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
 
 ### Tecnologias que estou ultilizando atualmente:
@@ -33,5 +35,9 @@
 
 Profissional extremamente apaixonada pela área de Prevenção a Fraudes e Tecnologia.🌟
 
-![Snake animation](https://github.com/Biazi990/Biazi990/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
 
