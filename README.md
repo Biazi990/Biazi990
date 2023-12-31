@@ -2,7 +2,7 @@
 
 💼 Trabalho com análise de prevenção a fraudes com foco em  análise de dados, automação e Machine learning
 
-📚 Estudando Ciências da Computação 
+📚 Estudando Análise e desenvolvimento de Sistemas 
 
 ❤️ Pronouns: ela/dela                        
 
